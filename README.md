@@ -23,5 +23,5 @@ En el repositorio se encuentra :
 
 En el presente ejercicio se da manejo a archivos, plantillas, scripts en bash, integrados a puppet para la instalación.
 
-Version de bash 5
-Versión del OS donde se realizaron pruebas (Ubuntu 22.04)
+Version de bash 5.
+Versión del OS donde se realizaron pruebas (Ubuntu 22.04).
