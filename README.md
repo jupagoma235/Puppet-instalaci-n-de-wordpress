@@ -4,11 +4,11 @@ El presente ejercicio corresponde a la instalación del aplicativo Wordpress med
 
 En el repositorio se encuentra :
 
- -> Sript en bash que automatiza la instalación de lo necesario para el funcionamiento de agente de puppet (Main.sh).
+ -> Sript en bash que automatiza la instalación de lo necesario para el funcionamiento de agente de puppet (Main.sh). 
  
- -> Directorio modules que contiene los modulos necesarios.
- 
-    -> Directorio manifests que contiene el archivo de configuración del sitio y que integra los otros modulos (site.pp).
+ -> Directorio modules que contiene los modulos necesarios. 
+   
+    -> Directorio manifests que contiene el archivo de configuración del sitio y que integra los otros modulos (site.pp).    
     -> Directorio del modulo apache.
        -> Directorio files en donde se encuentra el archivo de configuración de wordpress en apache.
        -> Directorio manifest que contiene el archivo de puppet que automatiza la instalación (Init.pp).
